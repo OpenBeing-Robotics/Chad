@@ -1,0 +1,25 @@
+The body of chad is mostly the same as our open source version Bobert. Here is the assembly guide:
+How To Build Chad:
+
+Parts needed:
+| --------------------------------------------------------------------------------- |
+| Item                                                  | Quantity | Estimated cost |
+| ----------------------------------------------------- | -------- | -------------- |
+| Raspberry Pi 4b (>4gb)                                | 1        | $60-$80        |
+| Micro SD card (32GB+)                                 | 1        | $10            |
+| USB Camera                                            | 1        | $8             |
+| USB Microphone                                        | 1        | $6             |
+| Speaker (3.5mm jack)                                  | 1        | $15            |
+| DC Motors                                             | 4        | $20            |
+| L298N Motor Driver                                    | 1        | $10            |
+| Wires, Jumpers, Breadboard                            | A lot    | $10            |
+| Battery Packs (USB-C for RasPi and power for motors)  | 1-2      | $10-$20        |
+| --------------------------------------------------------------------------------- |
+
+Assembly is mostly intuitive, however there are a few things:
+–GPIO Pins: Pin 17 = left front motor; Pin 18 = left back motor; Pin 22 = right front motor; Pin 23 = right back motor.
+–Tips: I have found that using a USB splitter is the best way to connect all the needed attachments.
+I also cannot stress this enough, always back up your code to a separate device, even minor bug fixes, save it all. 
+–Thirdly Chad may glitch or have errors, some of these are universal and in that case please post the glitch to the wiki, but some of these glitches are native to different devices and show up sometimes but other times are fine. Always test the glitch on a separate device if available.
+–Problems or Needs: Please email me at openbeingemail@gmail.com or post your problem to the wiki.
+P.S.- You may need to make your own chassi/body, we are still working on an official version.
