@@ -30,9 +30,9 @@ Chad is a commercially licensed robot. Use is restricted under the terms outline
 
 **By using Chad, you agree to the full terms outlined in:**
 
-* `terms-of-use.md`
-* `terms-of-service.md`
-* `commercial-license.md`
+* `terms of use.md`
+* `terms of service.md`
+* `commercial license.md`
 
 ---
 
